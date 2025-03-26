@@ -35,7 +35,7 @@ node app.js
 
 ### API Endpoints
 | Operation       | Endpoint | Method | Parameters | Example Request | 
-| ------------ | :----: | -----: | :----: | -----: |
+| ------------ | :----: | :-----: | :----: | :----- |
 |Addition       | /add | GET | num1 (float), num2 (float) | curl  http://localhost:3000/add?num1=5&num2=3
 |Subtraction      | /subtract | GET | num1 (float), num2 (float) | curl  http://localhost:3000/subtract?num1=10&num2=4
 |Multiplication       | /multiply | GET | num1 (float), num2 (float) | curl  http://localhost:3000/multiply?num1=7&num2=2
