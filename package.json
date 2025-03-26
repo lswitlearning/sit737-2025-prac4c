@@ -1,0 +1,16 @@
+{
+  "name": "task4_2c",
+  "version": "1.0.0",
+  "description": "This is a simple calculator microservice built with Node.js and Express. It provides basic arithmetic operations (addition, subtraction, multiplication, and division) via API endpoints.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}

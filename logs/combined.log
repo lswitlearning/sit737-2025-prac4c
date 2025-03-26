@@ -1,0 +1,13 @@
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"error","message":"Invalid num1 or num2 value: num1=2, num2=l","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction 2 - 2 = 0","service":"calculator-microservice"}
+{"level":"error","message":"Invalid num1 or num2 value: num1=a, num2=2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid num1 or num2 value: num1=a, num2=0","service":"calculator-microservice"}
+{"error":"Division by zero is not allowed: num1=10, num2=0","level":"error","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 10 ^ 0 = 1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid num1 or num2 value: num1=10, num2=b","service":"calculator-microservice"}
+{"level":"info","message":"Square root: sqrt(9) = 3","service":"calculator-microservice"}
+{"level":"info","message":"Square root: sqrt(9) = 3","service":"calculator-microservice"}
+{"level":"info","message":"Square root: sqrt(9) = 3","service":"calculator-microservice"}
+{"level":"error","message":"Missing num1 or num2 parameter: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calculator-microservice"}
